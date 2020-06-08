@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/theTrainMan/colors-ui.git/static/css/main.12535b3a.chunk.css",
+    "main.js": "/theTrainMan/colors-ui.git/static/js/main.ac1af9e6.chunk.js",
+    "main.js.map": "/theTrainMan/colors-ui.git/static/js/main.ac1af9e6.chunk.js.map",
+    "runtime-main.js": "/theTrainMan/colors-ui.git/static/js/runtime-main.2285fe00.js",
+    "runtime-main.js.map": "/theTrainMan/colors-ui.git/static/js/runtime-main.2285fe00.js.map",
+    "static/js/2.9e1a4cd1.chunk.js": "/theTrainMan/colors-ui.git/static/js/2.9e1a4cd1.chunk.js",
+    "static/js/2.9e1a4cd1.chunk.js.map": "/theTrainMan/colors-ui.git/static/js/2.9e1a4cd1.chunk.js.map",
+    "index.html": "/theTrainMan/colors-ui.git/index.html",
+    "precache-manifest.acd2286f010681ba2dd026fc6130b474.js": "/theTrainMan/colors-ui.git/precache-manifest.acd2286f010681ba2dd026fc6130b474.js",
+    "service-worker.js": "/theTrainMan/colors-ui.git/service-worker.js",
+    "static/css/main.12535b3a.chunk.css.map": "/theTrainMan/colors-ui.git/static/css/main.12535b3a.chunk.css.map",
+    "static/js/2.9e1a4cd1.chunk.js.LICENSE.txt": "/theTrainMan/colors-ui.git/static/js/2.9e1a4cd1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2285fe00.js",
+    "static/js/2.9e1a4cd1.chunk.js",
+    "static/css/main.12535b3a.chunk.css",
+    "static/js/main.ac1af9e6.chunk.js"
+  ]
+}
